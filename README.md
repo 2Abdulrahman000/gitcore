@@ -1,0 +1,2 @@
+# gitcore
+my project
